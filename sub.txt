@@ -2,7 +2,6 @@
 #subscription-userinfo: upload=0; download=0; total=0; expire=1787420280
 #announce: ℹ️ Плюс версия VPN-подписки GalacticVPN  |  🕹️ Подписка контролируется вручную владельцем GalacticVPN  |  🗄️ Сервера тут ↓
 #profile-update-interval: 1
-#profile-web-page-url: https://dany.run.place
 #
 # ↓ Сервера ↓
 #
