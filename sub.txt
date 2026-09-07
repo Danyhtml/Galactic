@@ -6,3 +6,4 @@
 # ↓ Сервера ↓
 #
 vless://bd08124f-bc9d-41aa-abaa-ff7f74b1cbf9@81.85.49.98:38843?authority=&encryption=none&fp=chrome&pbk=4Fg9ln2Isn75iYKI8hQsKu1byCJXkXi_A9T17eFh5Go&security=reality&serviceName=&sid=cdd538&sni=aws.amazon.com&spx=%2FDnVEWzvoem4HEhZ&type=grpc#GoGet%E2%80%A2🇺🇿+Узбекистан
+hysteria2://51f86ceb-232c-48c9-9f87-977ef6e2c0c1@eh-pl2.fishing-rods.org:8443?sni=eh-pl2.fishing-rods.org#🇵🇱+Польша
