@@ -1,6 +1,6 @@
 #profile-title: Galactic VPN+
 #subscription-userinfo: upload=0; download=0; total=0; expire=32596137600
-#announce: ℹ️ Плюс версия VPN-подписки GalacticVPN  |  🕹️ Подписка контролируется вручную владельцем GalacticVPN  |  🗄️ Сервера тут ↓
+#announce: ℹ️ Плюс версия VPN-подписки GalacticVPN  |  Не забывайте нажимать 🔃  |  🗄️ Сервера тут ↓
 #profile-update-interval: 1
 #
 # ↓ Сервера ↓
