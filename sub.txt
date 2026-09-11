@@ -5,7 +5,7 @@
 #
 # ↓ Сервера ↓
 #
-vless://ab08a3dc-f2f3-474c-bf24-0b58cfcf708e@179.237.66.81:443?flow=xtls-rprx-vision&type=raw&security=reality&fp=firefox&sni=ch.quietv.ru&pbk=WI66K77foDpvB0sSUMGCMAhxLrO8MOO30l4iplLM2TU&sid=e6dd42df35adb72c&spx=%2F#Этот+Сервер+Восстанавливается
-vless://ab08a3dc-f2f3-474c-bf24-0b58cfcf708e@176.109.109.150:443?flow=xtls-rprx-vision&type=raw&security=reality&fp=qq&sni=wildberries.ru&pbk=Kaq9XceXLylSHmfjwu4udv93at4orfabBZTPgRSjSm8&sid=032ff9fe8c2f4345&spx=%2F#Этот+Сервер+Восстанавливается
+vless://d45d81eb-3f37-45f2-8656-be52bc9829cd@cdn2-api-ru.cbrnet.digital:48002?type=xhttp&security=reality&fp=chrome&sni=wildberries.ru&pbk=EMwR_a62JEGjI_n3V3EeV7cK2TEXcHcyPEVLyQ17WjQ&sid=3b1955&path=%2Fapi%2Fv3%2Fcdn%2Fsegments&mode=auto#🇩🇪+Германия+|+🔥Турбо²
+vless://d45d81eb-3f37-45f2-8656-be52bc9829cd@cdnr1.cbrnet.digital:443?flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=chrome&sni=eh.vk.com&pbk=EMwR_a62JEGjI_n3V3EeV7cK2TEXcHcyPEVLyQ17WjQ&sid=abcd#🇷🇺+Россия+|+🔥Турбо
 vless://bd08124f-bc9d-41aa-abaa-ff7f74b1cbf9@81.85.49.98:38843?authority=&encryption=none&fp=chrome&pbk=4Fg9ln2Isn75iYKI8hQsKu1byCJXkXi_A9T17eFh5Go&security=reality&serviceName=&sid=cdd538&sni=aws.amazon.com&spx=%2FDnVEWzvoem4HEhZ&type=grpc#GoGet%E2%80%A2🇺🇿+Узбекистан
 hysteria2://51f86ceb-232c-48c9-9f87-977ef6e2c0c1@eh-pl2.fishing-rods.org:8443?sni=eh-pl2.fishing-rods.org#🇵🇱+Польша
